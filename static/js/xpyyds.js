@@ -1,4 +1,4 @@
-var link = "hmkj";
+var link = "api.hmkj";
 var wx_qq = false;
 var version_ = 'QQ310411965';
 function _0x3bac(_0x3fa75e, _0x32dc2b) {
